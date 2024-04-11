@@ -15,7 +15,7 @@
 <body>
     
     <ul>
-        <button onclick="window.location.href='nivel_1.html'">Iniciar</button>
+        <button onclick="window.location.href='html/nivel_1.html'">Iniciar</button>
     </ul>
     <details>
         <summary>Respuesta</summary>
